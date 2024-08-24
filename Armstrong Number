@@ -7,7 +7,7 @@ For example, 153 = ( 1 * 1 * 1 ) + ( 5 * 5 * 5 ) + ( 3 * 3 * 3 )
 Input Format
 The input contains a single integer representing N.
 
-Output Format
+Output For
 Print all the Armstrong numbers from 1 to N in separate lines.
 
 Example 1
